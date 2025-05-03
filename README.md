@@ -1,7 +1,7 @@
 
 ## FFSLIKER.SITE
 
-A simple web based code designed specifically to give you facebook reactions and increase followers. - OUTDATED
+A simple web-based code designed specifically to give you facebook reactions and increase followers. - OUTDATED
 
 ## Available Features
 * Basic Login Interface
